@@ -1,2 +1,0 @@
-# Kinopremium
-Telegram-movie-bot
